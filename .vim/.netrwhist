@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/charlesthibault/Documents/tutoVi'
+let g:netrw_dirhist_2='/Users/charlesthibault/Documents/programmation/php/vendor/twig/twig/doc'
+let g:netrw_dirhist_3='/Users/charlesthibault/Documents/dev/python/site_perso/site_perso'
